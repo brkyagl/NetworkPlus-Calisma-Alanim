@@ -1,2 +1,18 @@
-# NetworkPlus-Cal-sma-Alan-m
-CompTIA Network+ müfredatına göre kendi hazırladığım PDF'lerin listesi burada olacak.
+# 🌐 CompTIA Network+ Konuları
+
+> **Durum:** 🟢 Aktif / Güncelleniyor
+
+Merhaba! Bu repository, **CompTIA Network+** sertifikasyon yolculuğumda hazırladığım detaylı ders notlarını, şemaları ve teknik dokümantasyonları içerir.
+
+## 📚 İçindekiler(Güncelleniyor)
+
+Kitapçıklarımı PDF formatında aşağıdaki linklerden indirebilirsiniz.
+
+### 🔹 Bölüm 1: Ağ Kavramı (Hazırlıyorum...)
+- [x] **[Modül 1: Ağ Kavramları](./01-Ag-Temelleri/Modul-1.pdf)** *(Yakında)*
+
+---
+
+* **Medium:** [brkyagl](https://medium.com/@brkyagl)
+* **TryHackMe** [brkyagl](https://tryhackme.com/p/brkyagl)
+* ***BuyMeACoffee** [brkyagl](https://buymeacoffee.com/brkyagl)
