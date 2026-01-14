@@ -15,4 +15,4 @@ Kitapçıklarımı PDF formatında aşağıdaki linklerden indirebilirsiniz.
 
 * **Medium:** [brkyagl](https://medium.com/@brkyagl)
 * **TryHackMe** [brkyagl](https://tryhackme.com/p/brkyagl)
-* ***BuyMeACoffee** [brkyagl](https://buymeacoffee.com/brkyagl)
+* **BuyMeACoffee** [brkyagl](https://buymeacoffee.com/brkyagl)
