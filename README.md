@@ -9,7 +9,7 @@ Merhaba! Bu repository, **CompTIA Network+** sertifikasyon yolculuğumda hazırl
 Kitapçıklarımı PDF formatında aşağıdaki linklerden indirebilirsiniz.
 
 ### 🔹 Bölüm 1: Ağ Kavramı (Hazırlıyorum...)
-- [x] **[Modül 1: Ağ Kavramları](./01-Ag-Temelleri/Modul-1.pdf)** *(Yakında)*
+- [x] **[Modül 1: Ağ Kavramları](./1-Ag-Kavrami/)** *(Yakında)*
 
 ---
 
